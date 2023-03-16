@@ -1,6 +1,6 @@
-# Brief notes Vespy logger deobfuscation and destruction
+# Brief notes: Vespy logger deobfuscation and destruction
 
-Vespy grabber is a piece of fairly popular open source python malware that steals discord tokens, roblox cookies and other game accounts.
+[Vespy grabber](https://github.com/vesperlol/Vespy-Grabber-v2.0) is a piece of fairly popular open source python malware that steals discord tokens, roblox cookies and other game accounts.
 I noticed that I was encountering it almost daily on discord and youtube. As of right now the repository is still up and it's being used mainly to target young children whose accounts are valued highly - in some cases accounts worth hundreds of dollars are stolen and drained.
 
 ### Note if you don't want to read all this, when I get the time I will include a script you can just run to debfuscate the decompiled python file and get the webhook instantly
